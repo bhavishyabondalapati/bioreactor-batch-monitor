@@ -1,0 +1,3839 @@
+{
+  "data_source": "SIMULATED - not real plant data",
+  "intended_use": "Decision support only. A person reviews every alert.",
+  "n_alerts": 479,
+  "alerts": [
+    {
+      "batch": "B11",
+      "hour": 39,
+      "sensor": "ph",
+      "value": 6.903,
+      "limit": 6.908,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B11",
+      "hour": 111,
+      "sensor": "all_sensors",
+      "value": 16.312,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 175,
+      "sensor": "temp_c",
+      "value": 37.426,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 175,
+      "sensor": "all_sensors",
+      "value": 19.775,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 177,
+      "sensor": "temp_c",
+      "value": 37.303,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 180,
+      "sensor": "temp_c",
+      "value": 37.328,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 182,
+      "sensor": "temp_c",
+      "value": 37.319,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 183,
+      "sensor": "temp_c",
+      "value": 37.363,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 185,
+      "sensor": "temp_c",
+      "value": 37.438,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 185,
+      "sensor": "all_sensors",
+      "value": 19.838,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 186,
+      "sensor": "temp_c",
+      "value": 37.329,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 187,
+      "sensor": "temp_c",
+      "value": 37.36,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 187,
+      "sensor": "all_sensors",
+      "value": 15.4,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 188,
+      "sensor": "temp_c",
+      "value": 37.416,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 188,
+      "sensor": "all_sensors",
+      "value": 17.427,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 189,
+      "sensor": "temp_c",
+      "value": 37.413,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 189,
+      "sensor": "all_sensors",
+      "value": 22.163,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 190,
+      "sensor": "temp_c",
+      "value": 37.464,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 190,
+      "sensor": "all_sensors",
+      "value": 23.869,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 191,
+      "sensor": "temp_c",
+      "value": 37.442,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 191,
+      "sensor": "all_sensors",
+      "value": 20.409,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 192,
+      "sensor": "temp_c",
+      "value": 37.467,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 192,
+      "sensor": "all_sensors",
+      "value": 22.614,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 193,
+      "sensor": "temp_c",
+      "value": 37.397,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 193,
+      "sensor": "all_sensors",
+      "value": 17.085,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 194,
+      "sensor": "temp_c",
+      "value": 37.333,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 195,
+      "sensor": "temp_c",
+      "value": 37.307,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 197,
+      "sensor": "temp_c",
+      "value": 37.646,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 197,
+      "sensor": "all_sensors",
+      "value": 42.041,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 199,
+      "sensor": "temp_c",
+      "value": 37.609,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 199,
+      "sensor": "all_sensors",
+      "value": 42.53,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 200,
+      "sensor": "temp_c",
+      "value": 37.418,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 200,
+      "sensor": "all_sensors",
+      "value": 17.869,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 201,
+      "sensor": "temp_c",
+      "value": 37.629,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 201,
+      "sensor": "all_sensors",
+      "value": 41.093,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 202,
+      "sensor": "temp_c",
+      "value": 37.3,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 203,
+      "sensor": "temp_c",
+      "value": 37.506,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 203,
+      "sensor": "all_sensors",
+      "value": 27.651,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 204,
+      "sensor": "temp_c",
+      "value": 37.685,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 204,
+      "sensor": "all_sensors",
+      "value": 47.902,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 205,
+      "sensor": "temp_c",
+      "value": 37.621,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 205,
+      "sensor": "all_sensors",
+      "value": 40.884,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 206,
+      "sensor": "temp_c",
+      "value": 37.526,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 206,
+      "sensor": "all_sensors",
+      "value": 29.656,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 207,
+      "sensor": "temp_c",
+      "value": 37.376,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 207,
+      "sensor": "all_sensors",
+      "value": 17.993,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 208,
+      "sensor": "temp_c",
+      "value": 37.448,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 208,
+      "sensor": "all_sensors",
+      "value": 22.084,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 209,
+      "sensor": "temp_c",
+      "value": 37.729,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 209,
+      "sensor": "all_sensors",
+      "value": 54.076,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 210,
+      "sensor": "temp_c",
+      "value": 37.565,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 210,
+      "sensor": "all_sensors",
+      "value": 33.745,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 211,
+      "sensor": "temp_c",
+      "value": 37.603,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 211,
+      "sensor": "all_sensors",
+      "value": 40.244,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 212,
+      "sensor": "temp_c",
+      "value": 37.648,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 212,
+      "sensor": "all_sensors",
+      "value": 42.623,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 213,
+      "sensor": "temp_c",
+      "value": 37.5,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 213,
+      "sensor": "all_sensors",
+      "value": 27.797,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 214,
+      "sensor": "temp_c",
+      "value": 37.681,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 214,
+      "sensor": "all_sensors",
+      "value": 49.763,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 215,
+      "sensor": "temp_c",
+      "value": 37.608,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 215,
+      "sensor": "all_sensors",
+      "value": 38.446,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 216,
+      "sensor": "temp_c",
+      "value": 37.689,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 216,
+      "sensor": "all_sensors",
+      "value": 53.658,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 217,
+      "sensor": "temp_c",
+      "value": 37.612,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 217,
+      "sensor": "all_sensors",
+      "value": 39.785,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 218,
+      "sensor": "temp_c",
+      "value": 37.523,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 218,
+      "sensor": "all_sensors",
+      "value": 35.042,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 219,
+      "sensor": "temp_c",
+      "value": 37.647,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 219,
+      "sensor": "all_sensors",
+      "value": 44.284,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 220,
+      "sensor": "temp_c",
+      "value": 37.764,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 220,
+      "sensor": "all_sensors",
+      "value": 64.933,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 221,
+      "sensor": "temp_c",
+      "value": 37.749,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 221,
+      "sensor": "all_sensors",
+      "value": 57.611,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 222,
+      "sensor": "temp_c",
+      "value": 37.723,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 222,
+      "sensor": "all_sensors",
+      "value": 55.251,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 223,
+      "sensor": "temp_c",
+      "value": 37.82,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 223,
+      "sensor": "all_sensors",
+      "value": 68.144,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 224,
+      "sensor": "temp_c",
+      "value": 37.72,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 224,
+      "sensor": "all_sensors",
+      "value": 53.085,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 225,
+      "sensor": "temp_c",
+      "value": 37.756,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 225,
+      "sensor": "all_sensors",
+      "value": 57.911,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 226,
+      "sensor": "temp_c",
+      "value": 37.712,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 226,
+      "sensor": "all_sensors",
+      "value": 53.229,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 227,
+      "sensor": "temp_c",
+      "value": 37.866,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 227,
+      "sensor": "all_sensors",
+      "value": 79.23,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 228,
+      "sensor": "temp_c",
+      "value": 37.809,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 228,
+      "sensor": "all_sensors",
+      "value": 68.393,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 229,
+      "sensor": "temp_c",
+      "value": 37.734,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 229,
+      "sensor": "all_sensors",
+      "value": 61.178,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 230,
+      "sensor": "temp_c",
+      "value": 37.651,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 230,
+      "sensor": "all_sensors",
+      "value": 43.497,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 231,
+      "sensor": "temp_c",
+      "value": 37.92,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 231,
+      "sensor": "all_sensors",
+      "value": 86.72,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 232,
+      "sensor": "temp_c",
+      "value": 37.746,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 232,
+      "sensor": "all_sensors",
+      "value": 60.88,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 233,
+      "sensor": "temp_c",
+      "value": 37.837,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 233,
+      "sensor": "all_sensors",
+      "value": 72.467,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 234,
+      "sensor": "temp_c",
+      "value": 38.075,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 234,
+      "sensor": "all_sensors",
+      "value": 117.817,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 235,
+      "sensor": "temp_c",
+      "value": 37.93,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 235,
+      "sensor": "all_sensors",
+      "value": 87.871,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 236,
+      "sensor": "temp_c",
+      "value": 38.021,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 236,
+      "sensor": "all_sensors",
+      "value": 106.984,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 237,
+      "sensor": "temp_c",
+      "value": 37.816,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 237,
+      "sensor": "all_sensors",
+      "value": 71.484,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 238,
+      "sensor": "temp_c",
+      "value": 37.987,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 238,
+      "sensor": "all_sensors",
+      "value": 103.203,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 239,
+      "sensor": "temp_c",
+      "value": 37.893,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 239,
+      "sensor": "all_sensors",
+      "value": 82.185,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 240,
+      "sensor": "temp_c",
+      "value": 37.937,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 240,
+      "sensor": "all_sensors",
+      "value": 89.032,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 241,
+      "sensor": "temp_c",
+      "value": 38.112,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 241,
+      "sensor": "all_sensors",
+      "value": 124.109,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 242,
+      "sensor": "temp_c",
+      "value": 37.892,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 242,
+      "sensor": "all_sensors",
+      "value": 80.026,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 243,
+      "sensor": "temp_c",
+      "value": 37.932,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 243,
+      "sensor": "all_sensors",
+      "value": 88.293,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 244,
+      "sensor": "temp_c",
+      "value": 37.85,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 244,
+      "sensor": "all_sensors",
+      "value": 73.453,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 245,
+      "sensor": "temp_c",
+      "value": 38.039,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 245,
+      "sensor": "all_sensors",
+      "value": 110.395,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 246,
+      "sensor": "temp_c",
+      "value": 37.904,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 246,
+      "sensor": "all_sensors",
+      "value": 82.538,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 247,
+      "sensor": "temp_c",
+      "value": 38.072,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 247,
+      "sensor": "all_sensors",
+      "value": 115.709,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 248,
+      "sensor": "temp_c",
+      "value": 37.815,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 248,
+      "sensor": "all_sensors",
+      "value": 67.24,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 249,
+      "sensor": "temp_c",
+      "value": 38.045,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 249,
+      "sensor": "all_sensors",
+      "value": 110.112,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 250,
+      "sensor": "temp_c",
+      "value": 37.936,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 250,
+      "sensor": "all_sensors",
+      "value": 89.004,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 251,
+      "sensor": "temp_c",
+      "value": 38.083,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 251,
+      "sensor": "all_sensors",
+      "value": 117.801,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 252,
+      "sensor": "temp_c",
+      "value": 38.019,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 252,
+      "sensor": "all_sensors",
+      "value": 106.088,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 253,
+      "sensor": "temp_c",
+      "value": 37.976,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 253,
+      "sensor": "all_sensors",
+      "value": 100.288,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 254,
+      "sensor": "temp_c",
+      "value": 38.001,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 254,
+      "sensor": "all_sensors",
+      "value": 103.991,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 255,
+      "sensor": "temp_c",
+      "value": 37.965,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 255,
+      "sensor": "all_sensors",
+      "value": 95.512,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 256,
+      "sensor": "temp_c",
+      "value": 38.144,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 256,
+      "sensor": "all_sensors",
+      "value": 135.309,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 257,
+      "sensor": "temp_c",
+      "value": 37.965,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 257,
+      "sensor": "all_sensors",
+      "value": 99.35,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 258,
+      "sensor": "temp_c",
+      "value": 38.053,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 258,
+      "sensor": "all_sensors",
+      "value": 111.858,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 259,
+      "sensor": "temp_c",
+      "value": 38.125,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 259,
+      "sensor": "all_sensors",
+      "value": 127.264,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 260,
+      "sensor": "temp_c",
+      "value": 38.261,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 260,
+      "sensor": "all_sensors",
+      "value": 160.503,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 261,
+      "sensor": "temp_c",
+      "value": 38.109,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 261,
+      "sensor": "all_sensors",
+      "value": 125.675,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 262,
+      "sensor": "temp_c",
+      "value": 38.096,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 262,
+      "sensor": "all_sensors",
+      "value": 120.676,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 263,
+      "sensor": "temp_c",
+      "value": 38.157,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 263,
+      "sensor": "all_sensors",
+      "value": 135.573,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 264,
+      "sensor": "temp_c",
+      "value": 37.933,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 264,
+      "sensor": "all_sensors",
+      "value": 89.26,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 265,
+      "sensor": "temp_c",
+      "value": 38.03,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 265,
+      "sensor": "all_sensors",
+      "value": 108.365,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 266,
+      "sensor": "temp_c",
+      "value": 38.122,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 266,
+      "sensor": "all_sensors",
+      "value": 127.599,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 267,
+      "sensor": "temp_c",
+      "value": 38.099,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 267,
+      "sensor": "all_sensors",
+      "value": 122.757,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 268,
+      "sensor": "temp_c",
+      "value": 38.02,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 268,
+      "sensor": "all_sensors",
+      "value": 105.251,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 269,
+      "sensor": "temp_c",
+      "value": 38.276,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 269,
+      "sensor": "all_sensors",
+      "value": 165.005,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 270,
+      "sensor": "temp_c",
+      "value": 38.226,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 270,
+      "sensor": "all_sensors",
+      "value": 154.095,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 271,
+      "sensor": "temp_c",
+      "value": 38.224,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 271,
+      "sensor": "all_sensors",
+      "value": 151.67,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 272,
+      "sensor": "temp_c",
+      "value": 38.151,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 272,
+      "sensor": "all_sensors",
+      "value": 134.261,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 273,
+      "sensor": "temp_c",
+      "value": 38.238,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 273,
+      "sensor": "all_sensors",
+      "value": 154.476,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 274,
+      "sensor": "temp_c",
+      "value": 38.291,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 274,
+      "sensor": "all_sensors",
+      "value": 170.49,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 275,
+      "sensor": "temp_c",
+      "value": 38.224,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 275,
+      "sensor": "all_sensors",
+      "value": 151.124,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 276,
+      "sensor": "temp_c",
+      "value": 38.304,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 276,
+      "sensor": "all_sensors",
+      "value": 170.721,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 277,
+      "sensor": "temp_c",
+      "value": 38.19,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 277,
+      "sensor": "all_sensors",
+      "value": 143.545,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 278,
+      "sensor": "temp_c",
+      "value": 38.29,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 278,
+      "sensor": "all_sensors",
+      "value": 167.938,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 279,
+      "sensor": "temp_c",
+      "value": 38.404,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 279,
+      "sensor": "all_sensors",
+      "value": 203.339,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 280,
+      "sensor": "temp_c",
+      "value": 38.423,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 280,
+      "sensor": "all_sensors",
+      "value": 205.067,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 281,
+      "sensor": "temp_c",
+      "value": 38.443,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 281,
+      "sensor": "all_sensors",
+      "value": 210.921,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 282,
+      "sensor": "temp_c",
+      "value": 38.349,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 282,
+      "sensor": "all_sensors",
+      "value": 183.632,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 283,
+      "sensor": "temp_c",
+      "value": 38.333,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 283,
+      "sensor": "all_sensors",
+      "value": 181.379,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 284,
+      "sensor": "temp_c",
+      "value": 38.295,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 284,
+      "sensor": "all_sensors",
+      "value": 168.951,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 285,
+      "sensor": "temp_c",
+      "value": 38.169,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 285,
+      "sensor": "all_sensors",
+      "value": 139.634,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 286,
+      "sensor": "temp_c",
+      "value": 38.226,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 286,
+      "sensor": "all_sensors",
+      "value": 153.437,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 287,
+      "sensor": "temp_c",
+      "value": 38.353,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 287,
+      "sensor": "all_sensors",
+      "value": 183.687,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 288,
+      "sensor": "temp_c",
+      "value": 38.369,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 288,
+      "sensor": "all_sensors",
+      "value": 192.15,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 289,
+      "sensor": "temp_c",
+      "value": 38.531,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 289,
+      "sensor": "all_sensors",
+      "value": 237.451,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 290,
+      "sensor": "temp_c",
+      "value": 38.531,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 290,
+      "sensor": "all_sensors",
+      "value": 239.844,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 291,
+      "sensor": "temp_c",
+      "value": 38.341,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 291,
+      "sensor": "all_sensors",
+      "value": 181.762,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 292,
+      "sensor": "temp_c",
+      "value": 38.502,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 292,
+      "sensor": "all_sensors",
+      "value": 227.851,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 293,
+      "sensor": "temp_c",
+      "value": 38.382,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 293,
+      "sensor": "all_sensors",
+      "value": 194.532,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 294,
+      "sensor": "temp_c",
+      "value": 38.508,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 294,
+      "sensor": "all_sensors",
+      "value": 228.495,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 295,
+      "sensor": "temp_c",
+      "value": 38.531,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 295,
+      "sensor": "all_sensors",
+      "value": 235.354,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 296,
+      "sensor": "temp_c",
+      "value": 38.584,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 296,
+      "sensor": "all_sensors",
+      "value": 254.917,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 297,
+      "sensor": "temp_c",
+      "value": 38.421,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 297,
+      "sensor": "all_sensors",
+      "value": 206.208,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 298,
+      "sensor": "temp_c",
+      "value": 38.581,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 298,
+      "sensor": "all_sensors",
+      "value": 253.154,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 299,
+      "sensor": "temp_c",
+      "value": 38.303,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 299,
+      "sensor": "all_sensors",
+      "value": 171.933,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 300,
+      "sensor": "temp_c",
+      "value": 38.63,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 300,
+      "sensor": "all_sensors",
+      "value": 270.624,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 301,
+      "sensor": "temp_c",
+      "value": 38.507,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 301,
+      "sensor": "all_sensors",
+      "value": 231.402,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 302,
+      "sensor": "temp_c",
+      "value": 38.52,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 302,
+      "sensor": "all_sensors",
+      "value": 234.949,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 303,
+      "sensor": "temp_c",
+      "value": 38.326,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 303,
+      "sensor": "all_sensors",
+      "value": 177.413,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 304,
+      "sensor": "temp_c",
+      "value": 38.501,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 304,
+      "sensor": "all_sensors",
+      "value": 228.449,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 305,
+      "sensor": "temp_c",
+      "value": 38.686,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 305,
+      "sensor": "all_sensors",
+      "value": 286.121,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 306,
+      "sensor": "temp_c",
+      "value": 38.517,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 306,
+      "sensor": "all_sensors",
+      "value": 236.879,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 307,
+      "sensor": "temp_c",
+      "value": 38.641,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 307,
+      "sensor": "all_sensors",
+      "value": 272.636,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 308,
+      "sensor": "temp_c",
+      "value": 38.583,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 308,
+      "sensor": "all_sensors",
+      "value": 254.706,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 309,
+      "sensor": "temp_c",
+      "value": 38.696,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 309,
+      "sensor": "all_sensors",
+      "value": 289.653,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 310,
+      "sensor": "temp_c",
+      "value": 38.619,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 310,
+      "sensor": "all_sensors",
+      "value": 264.147,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 311,
+      "sensor": "temp_c",
+      "value": 38.517,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 311,
+      "sensor": "all_sensors",
+      "value": 231.223,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 312,
+      "sensor": "temp_c",
+      "value": 38.626,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 312,
+      "sensor": "all_sensors",
+      "value": 269.906,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 313,
+      "sensor": "temp_c",
+      "value": 38.79,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 313,
+      "sensor": "all_sensors",
+      "value": 321.435,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 314,
+      "sensor": "temp_c",
+      "value": 38.69,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 314,
+      "sensor": "all_sensors",
+      "value": 288.537,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 315,
+      "sensor": "temp_c",
+      "value": 38.638,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 315,
+      "sensor": "all_sensors",
+      "value": 276.184,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 316,
+      "sensor": "temp_c",
+      "value": 38.886,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 316,
+      "sensor": "all_sensors",
+      "value": 357.007,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 317,
+      "sensor": "temp_c",
+      "value": 38.786,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 317,
+      "sensor": "all_sensors",
+      "value": 321.81,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 318,
+      "sensor": "temp_c",
+      "value": 38.762,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 318,
+      "sensor": "all_sensors",
+      "value": 312.837,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 319,
+      "sensor": "ph",
+      "value": 6.907,
+      "limit": 6.908,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 319,
+      "sensor": "temp_c",
+      "value": 38.722,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 319,
+      "sensor": "all_sensors",
+      "value": 308.29,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 320,
+      "sensor": "temp_c",
+      "value": 38.773,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 320,
+      "sensor": "all_sensors",
+      "value": 318.584,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 321,
+      "sensor": "temp_c",
+      "value": 38.786,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 321,
+      "sensor": "all_sensors",
+      "value": 321.198,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 322,
+      "sensor": "temp_c",
+      "value": 38.502,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 322,
+      "sensor": "all_sensors",
+      "value": 230.298,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 323,
+      "sensor": "temp_c",
+      "value": 38.769,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 323,
+      "sensor": "all_sensors",
+      "value": 315.216,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 324,
+      "sensor": "temp_c",
+      "value": 38.724,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 324,
+      "sensor": "all_sensors",
+      "value": 304.36,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 325,
+      "sensor": "temp_c",
+      "value": 38.7,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 325,
+      "sensor": "all_sensors",
+      "value": 292.481,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 326,
+      "sensor": "temp_c",
+      "value": 38.74,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 326,
+      "sensor": "all_sensors",
+      "value": 306.227,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 327,
+      "sensor": "temp_c",
+      "value": 38.614,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 327,
+      "sensor": "all_sensors",
+      "value": 265.88,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 328,
+      "sensor": "temp_c",
+      "value": 38.6,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 328,
+      "sensor": "all_sensors",
+      "value": 260.307,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 329,
+      "sensor": "temp_c",
+      "value": 38.915,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 329,
+      "sensor": "all_sensors",
+      "value": 369.808,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 330,
+      "sensor": "temp_c",
+      "value": 38.846,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 330,
+      "sensor": "all_sensors",
+      "value": 343.714,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 331,
+      "sensor": "temp_c",
+      "value": 38.569,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 331,
+      "sensor": "all_sensors",
+      "value": 250.452,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 332,
+      "sensor": "temp_c",
+      "value": 38.762,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 332,
+      "sensor": "all_sensors",
+      "value": 313.173,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 333,
+      "sensor": "temp_c",
+      "value": 38.918,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 333,
+      "sensor": "all_sensors",
+      "value": 370.311,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 334,
+      "sensor": "temp_c",
+      "value": 38.812,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 334,
+      "sensor": "all_sensors",
+      "value": 333.345,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B12",
+      "hour": 335,
+      "sensor": "temp_c",
+      "value": 38.975,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B12",
+      "hour": 335,
+      "sensor": "all_sensors",
+      "value": 391.712,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B13",
+      "hour": 164,
+      "sensor": "temp_c",
+      "value": 37.316,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 21,
+      "sensor": "all_sensors",
+      "value": 16.354,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 50,
+      "sensor": "ph",
+      "value": 6.907,
+      "limit": 6.908,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 198,
+      "sensor": "temp_c",
+      "value": 37.356,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 200,
+      "sensor": "ph",
+      "value": 7.295,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 200,
+      "sensor": "all_sensors",
+      "value": 95.905,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 201,
+      "sensor": "ph",
+      "value": 7.275,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 201,
+      "sensor": "all_sensors",
+      "value": 82.694,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 202,
+      "sensor": "ph",
+      "value": 7.286,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 202,
+      "sensor": "all_sensors",
+      "value": 89.782,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 203,
+      "sensor": "ph",
+      "value": 7.308,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 203,
+      "sensor": "all_sensors",
+      "value": 104.454,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 204,
+      "sensor": "ph",
+      "value": 7.279,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 204,
+      "sensor": "all_sensors",
+      "value": 84.635,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 205,
+      "sensor": "ph",
+      "value": 7.328,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B15",
+      "hour": 205,
+      "sensor": "all_sensors",
+      "value": 117.086,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B15",
+      "hour": 334,
+      "sensor": "all_sensors",
+      "value": 17.873,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B16",
+      "hour": 22,
+      "sensor": "temp_c",
+      "value": 36.681,
+      "limit": 36.697,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B16",
+      "hour": 276,
+      "sensor": "temp_c",
+      "value": 37.301,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B16",
+      "hour": 311,
+      "sensor": "all_sensors",
+      "value": 21.124,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B17",
+      "hour": 0,
+      "sensor": "all_sensors",
+      "value": 17.6,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 143,
+      "sensor": "all_sensors",
+      "value": 14.916,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 149,
+      "sensor": "all_sensors",
+      "value": 16.076,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 159,
+      "sensor": "all_sensors",
+      "value": 15.977,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 162,
+      "sensor": "all_sensors",
+      "value": 16.287,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 164,
+      "sensor": "temp_c",
+      "value": 36.647,
+      "limit": 36.697,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B18",
+      "hour": 164,
+      "sensor": "all_sensors",
+      "value": 15.299,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 166,
+      "sensor": "all_sensors",
+      "value": 16.201,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 171,
+      "sensor": "all_sensors",
+      "value": 16.031,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 174,
+      "sensor": "all_sensors",
+      "value": 19.643,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 178,
+      "sensor": "all_sensors",
+      "value": 22.421,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 181,
+      "sensor": "all_sensors",
+      "value": 26.09,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 182,
+      "sensor": "all_sensors",
+      "value": 28.802,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 183,
+      "sensor": "all_sensors",
+      "value": 15.738,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 185,
+      "sensor": "all_sensors",
+      "value": 28.871,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 191,
+      "sensor": "all_sensors",
+      "value": 20.015,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 192,
+      "sensor": "all_sensors",
+      "value": 31.992,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 193,
+      "sensor": "all_sensors",
+      "value": 25.528,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 194,
+      "sensor": "all_sensors",
+      "value": 19.186,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 195,
+      "sensor": "all_sensors",
+      "value": 24.588,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 198,
+      "sensor": "all_sensors",
+      "value": 27.367,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 199,
+      "sensor": "all_sensors",
+      "value": 22.552,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 201,
+      "sensor": "all_sensors",
+      "value": 27.864,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 205,
+      "sensor": "all_sensors",
+      "value": 17.265,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 207,
+      "sensor": "all_sensors",
+      "value": 24.928,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 209,
+      "sensor": "all_sensors",
+      "value": 17.72,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 210,
+      "sensor": "all_sensors",
+      "value": 17.494,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 211,
+      "sensor": "all_sensors",
+      "value": 24.096,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 212,
+      "sensor": "all_sensors",
+      "value": 16.618,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 213,
+      "sensor": "all_sensors",
+      "value": 16.478,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 214,
+      "sensor": "all_sensors",
+      "value": 31.107,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 215,
+      "sensor": "all_sensors",
+      "value": 32.2,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 216,
+      "sensor": "all_sensors",
+      "value": 24.134,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 218,
+      "sensor": "all_sensors",
+      "value": 43.787,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 219,
+      "sensor": "all_sensors",
+      "value": 26.515,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 220,
+      "sensor": "all_sensors",
+      "value": 15.526,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 221,
+      "sensor": "all_sensors",
+      "value": 39.292,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 222,
+      "sensor": "all_sensors",
+      "value": 15.598,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 223,
+      "sensor": "all_sensors",
+      "value": 37.322,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 224,
+      "sensor": "all_sensors",
+      "value": 37.946,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 225,
+      "sensor": "all_sensors",
+      "value": 27.184,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 227,
+      "sensor": "all_sensors",
+      "value": 34.688,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 228,
+      "sensor": "all_sensors",
+      "value": 48.979,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 229,
+      "sensor": "all_sensors",
+      "value": 50.494,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 230,
+      "sensor": "all_sensors",
+      "value": 18.737,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 231,
+      "sensor": "all_sensors",
+      "value": 45.932,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 232,
+      "sensor": "all_sensors",
+      "value": 17.417,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 233,
+      "sensor": "all_sensors",
+      "value": 28.196,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 234,
+      "sensor": "all_sensors",
+      "value": 30.514,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 235,
+      "sensor": "all_sensors",
+      "value": 27.754,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 236,
+      "sensor": "all_sensors",
+      "value": 40.037,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 237,
+      "sensor": "all_sensors",
+      "value": 31.008,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 238,
+      "sensor": "all_sensors",
+      "value": 46.103,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 239,
+      "sensor": "all_sensors",
+      "value": 19.866,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 240,
+      "sensor": "all_sensors",
+      "value": 44.941,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 241,
+      "sensor": "all_sensors",
+      "value": 30.005,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 242,
+      "sensor": "all_sensors",
+      "value": 46.68,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 243,
+      "sensor": "all_sensors",
+      "value": 39.63,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 244,
+      "sensor": "all_sensors",
+      "value": 44.884,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 246,
+      "sensor": "all_sensors",
+      "value": 38.695,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 247,
+      "sensor": "all_sensors",
+      "value": 47.929,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 248,
+      "sensor": "all_sensors",
+      "value": 45.445,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 249,
+      "sensor": "all_sensors",
+      "value": 59.229,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 250,
+      "sensor": "all_sensors",
+      "value": 39.822,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 251,
+      "sensor": "all_sensors",
+      "value": 18.203,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 252,
+      "sensor": "all_sensors",
+      "value": 33.804,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 253,
+      "sensor": "all_sensors",
+      "value": 28.309,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 254,
+      "sensor": "all_sensors",
+      "value": 51.011,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 255,
+      "sensor": "all_sensors",
+      "value": 44.807,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 256,
+      "sensor": "all_sensors",
+      "value": 37.998,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 257,
+      "sensor": "all_sensors",
+      "value": 55.755,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 258,
+      "sensor": "all_sensors",
+      "value": 36.14,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 259,
+      "sensor": "all_sensors",
+      "value": 35.818,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 260,
+      "sensor": "all_sensors",
+      "value": 36.811,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 261,
+      "sensor": "all_sensors",
+      "value": 44.49,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 262,
+      "sensor": "all_sensors",
+      "value": 29.841,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 263,
+      "sensor": "all_sensors",
+      "value": 46.656,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 264,
+      "sensor": "all_sensors",
+      "value": 49.065,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 265,
+      "sensor": "all_sensors",
+      "value": 28.267,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 266,
+      "sensor": "all_sensors",
+      "value": 63.312,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 267,
+      "sensor": "all_sensors",
+      "value": 73.649,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 268,
+      "sensor": "all_sensors",
+      "value": 65.679,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 269,
+      "sensor": "all_sensors",
+      "value": 47.985,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 270,
+      "sensor": "all_sensors",
+      "value": 32.863,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 271,
+      "sensor": "all_sensors",
+      "value": 57.439,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 272,
+      "sensor": "all_sensors",
+      "value": 26.961,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 273,
+      "sensor": "all_sensors",
+      "value": 50.314,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 274,
+      "sensor": "all_sensors",
+      "value": 51.208,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 275,
+      "sensor": "all_sensors",
+      "value": 69.327,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 276,
+      "sensor": "all_sensors",
+      "value": 35.497,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 277,
+      "sensor": "all_sensors",
+      "value": 53.538,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 278,
+      "sensor": "all_sensors",
+      "value": 74.882,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 279,
+      "sensor": "all_sensors",
+      "value": 25.066,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 280,
+      "sensor": "all_sensors",
+      "value": 49.862,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 281,
+      "sensor": "all_sensors",
+      "value": 44.408,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 282,
+      "sensor": "all_sensors",
+      "value": 32.847,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 283,
+      "sensor": "all_sensors",
+      "value": 47.163,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 284,
+      "sensor": "all_sensors",
+      "value": 45.123,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 285,
+      "sensor": "all_sensors",
+      "value": 55.493,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 286,
+      "sensor": "all_sensors",
+      "value": 47.194,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 287,
+      "sensor": "all_sensors",
+      "value": 57.584,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 288,
+      "sensor": "all_sensors",
+      "value": 59.029,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 289,
+      "sensor": "all_sensors",
+      "value": 59.018,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 290,
+      "sensor": "all_sensors",
+      "value": 67.947,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 291,
+      "sensor": "all_sensors",
+      "value": 53.05,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 292,
+      "sensor": "all_sensors",
+      "value": 54.237,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 293,
+      "sensor": "all_sensors",
+      "value": 49.402,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 294,
+      "sensor": "all_sensors",
+      "value": 53.608,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 295,
+      "sensor": "all_sensors",
+      "value": 34.783,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 296,
+      "sensor": "all_sensors",
+      "value": 48.01,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 297,
+      "sensor": "all_sensors",
+      "value": 69.999,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 298,
+      "sensor": "all_sensors",
+      "value": 58.249,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 299,
+      "sensor": "all_sensors",
+      "value": 48.037,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 300,
+      "sensor": "all_sensors",
+      "value": 93.779,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 301,
+      "sensor": "all_sensors",
+      "value": 38.223,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 302,
+      "sensor": "all_sensors",
+      "value": 82.806,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 303,
+      "sensor": "all_sensors",
+      "value": 54.251,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 304,
+      "sensor": "all_sensors",
+      "value": 70.878,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 305,
+      "sensor": "all_sensors",
+      "value": 70.287,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 306,
+      "sensor": "ph",
+      "value": 7.1,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B18",
+      "hour": 306,
+      "sensor": "all_sensors",
+      "value": 104.865,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 307,
+      "sensor": "all_sensors",
+      "value": 56.044,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 308,
+      "sensor": "all_sensors",
+      "value": 97.548,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 309,
+      "sensor": "all_sensors",
+      "value": 102.237,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 310,
+      "sensor": "all_sensors",
+      "value": 55.26,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 311,
+      "sensor": "all_sensors",
+      "value": 46.305,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 312,
+      "sensor": "all_sensors",
+      "value": 85.613,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 313,
+      "sensor": "all_sensors",
+      "value": 59.602,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 314,
+      "sensor": "all_sensors",
+      "value": 63.925,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 315,
+      "sensor": "all_sensors",
+      "value": 78.118,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 316,
+      "sensor": "all_sensors",
+      "value": 55.131,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 317,
+      "sensor": "all_sensors",
+      "value": 80.876,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 318,
+      "sensor": "all_sensors",
+      "value": 71.865,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 319,
+      "sensor": "all_sensors",
+      "value": 103.81,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 320,
+      "sensor": "all_sensors",
+      "value": 103.987,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 321,
+      "sensor": "all_sensors",
+      "value": 63.497,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 322,
+      "sensor": "all_sensors",
+      "value": 72.67,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 323,
+      "sensor": "all_sensors",
+      "value": 86.136,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 324,
+      "sensor": "all_sensors",
+      "value": 53.232,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 325,
+      "sensor": "all_sensors",
+      "value": 52.066,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 326,
+      "sensor": "all_sensors",
+      "value": 76.25,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 327,
+      "sensor": "all_sensors",
+      "value": 116.6,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 328,
+      "sensor": "all_sensors",
+      "value": 88.49,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 329,
+      "sensor": "all_sensors",
+      "value": 103.706,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 330,
+      "sensor": "all_sensors",
+      "value": 86.129,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 331,
+      "sensor": "all_sensors",
+      "value": 110.755,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 332,
+      "sensor": "all_sensors",
+      "value": 111.946,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 333,
+      "sensor": "all_sensors",
+      "value": 143.316,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 334,
+      "sensor": "all_sensors",
+      "value": 86.694,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B18",
+      "hour": 335,
+      "sensor": "all_sensors",
+      "value": 140.338,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B19",
+      "hour": 17,
+      "sensor": "temp_c",
+      "value": 37.32,
+      "limit": 37.299,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B20",
+      "hour": 19,
+      "sensor": "ph",
+      "value": 7.097,
+      "limit": 7.091,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B20",
+      "hour": 19,
+      "sensor": "all_sensors",
+      "value": 15.525,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B20",
+      "hour": 37,
+      "sensor": "all_sensors",
+      "value": 21.499,
+      "limit": 14.912,
+      "method": "PCA_T2"
+    },
+    {
+      "batch": "B20",
+      "hour": 214,
+      "sensor": "temp_c",
+      "value": 36.654,
+      "limit": 36.697,
+      "method": "SPC_3sigma"
+    },
+    {
+      "batch": "B20",
+      "hour": 272,
+      "sensor": "temp_c",
+      "value": 36.685,
+      "limit": 36.697,
+      "method": "SPC_3sigma"
+    }
+  ]
+}
