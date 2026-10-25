@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+.pytest_cache/
+
+# Generated database (rebuild with python run.py)
+*.db
+
+# macOS
+.DS_Store
