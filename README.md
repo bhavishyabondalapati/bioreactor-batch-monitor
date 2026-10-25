@@ -1,7 +1,6 @@
 # Bioreactor Batch Monitor (SIMULATED data)
 
-> **All data in this project is simulated.** It was built as a weekend learning
-> project to prepare for an interview. It is not connected to any real process.
+> **All data in this project is simulated.** It is not connected to any real process.
 
 ## 1. Purpose
 
@@ -168,7 +167,7 @@ pytest -v          # 6 validation tests
 6. Wrote alerts to JSON and drew the SPC-vs-T² chart for B18.
 7. Scored alarms against ground truth (precision, recall, first alarm hour) and wrote pytest tests.
 
-## Key concepts (interview-ready)
+## Key concepts
 
 - **Control limits (±3σ):** if the process is normal and roughly Gaussian, 99.73 % of readings fall inside. A point outside is unlikely to be normal noise.
 - **Phase I vs Phase II SPC:** Phase I = learn limits from known-good data. Phase II = monitor new data against them. Mixing them up hides faults.
